@@ -4,5 +4,5 @@
 :-----------------|------------------|------------------------:
 [Оценка токсичности комментариев](10.11.2023_NLP.ipynb)| Поиск токсичных комментариев.  | Pandas, BERT,CatBoost,nltk,tf-idf,spacy,sklearn
 [Анализ оттока клиентов](21.01.24_Ottok_clientov.ipynb)| Построение модели для предсказания оттока и анализ его причин после проверки гипотез. | Pandas,Sklearn, Matplotlib, scipy,Seaborn, Numpy
-[Предсказание цены автомобиля](24.09.23_Predscazanie_ceni.ipynb) | Построение модели для предсказания цены автомобиля. | Pandas, Sklearn, Numpy, Seaborn, XGBoost, LightGBM, CatBoost 
+[Предсказание цены автомобиля](24.09.23_Predscazanie_ceni.ipynb) | Построение модели для предсказания цены автомобиля. | Pandas, Sklearn, Numpy, Seaborn, LightGBM, CatBoost 
 
